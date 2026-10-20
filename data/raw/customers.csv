@@ -1,0 +1,21 @@
+customer_id,customer_name,email,city,created_date
+1,Customer 001,customer001@example.com,Imus,2025-01-04
+2,Customer 002,customer002@example.com,Cebu,2025-01-07
+3,Customer 003,customer003@example.com,Davao,2025-01-10
+4,Customer 004,customer004@example.com,Manila,2025-01-13
+5,Customer 005,customer005@example.com,Imus,2025-01-16
+6,Customer 006,customer006@example.com,Cebu,2025-01-19
+7,Customer 007,customer007@example.com,Davao,2025-01-22
+8,Customer 008,customer008@example.com,Manila,2025-01-25
+9,Customer 009,customer009@example.com,Imus,2025-01-28
+10,Customer 010,customer010@example.com,Cebu,2025-01-31
+11,Customer 011,customer011@example.com,Davao,2025-02-03
+12,Customer 012,customer012@example.com,Manila,2025-02-06
+13,Customer 013,customer013@example.com,Imus,2025-02-09
+14,Customer 014,customer014@example.com,Cebu,2025-02-12
+15,Customer 015,customer015@example.com,Davao,2025-02-15
+16,Customer 016,customer016@example.com,Manila,2025-02-18
+17,Customer 017,customer017@example.com,Imus,2025-02-21
+18,Customer 018,customer018@example.com,Cebu,2025-02-24
+19,Customer 019,customer019@example.com,Davao,2025-02-27
+20,Customer 020,customer020@example.com,Manila,2025-03-02

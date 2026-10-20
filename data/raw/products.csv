@@ -1,0 +1,13 @@
+product_id,product_name,category,unit_price
+1,Laptop,Electronics,45000
+2,Mouse,Accessories,650
+3,Keyboard,Accessories,1200
+4,Monitor,Electronics,9800
+5,Headphones,Accessories,2100
+6,Desk,Furniture,5500
+7,Chair,Furniture,3200
+8,Phone,Electronics,28000
+9,Webcam,Accessories,1800
+10,Printer,Electronics,7200
+11,Tablet,Electronics,16000
+12,USB Drive,Accessories,450
