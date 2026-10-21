@@ -20,6 +20,23 @@ The pipeline organizes retail data into three layers:
 - Databricks Jobs and Workflows
 - Git and GitHub
 
+## Databricks Notebooks
+
+The project contains eight notebooks, each responsible for a specific part of the data engineering workflow.
+
+| Notebook | Purpose |
+|---|---|
+| `01_environment_check` | Inspect the Python and Spark environment. |
+| `02_bronze_ingestion` | Ingest raw retail source files into Bronze Delta tables. |
+| `03_silver_transformation` | Clean and validate sales data. |
+| `04_gold_analytics` | Generate monthly, product, and store-level sales summaries. |
+| `05_incremental_processing` | Process incremental sales batches and prevent duplicate records. |
+| `06_data_quality_checks` | Run data quality checks on pipeline data. |
+| `07_pipeline_validation` | Validate consistency between Silver and Gold results. |
+| `08_pipeline_monitoring` | Record table metrics, quality results, and pipeline audit information. |
+
+The notebooks are orchestrated through the `retail_data_pipeline` Databricks job, with task dependencies configured in Databricks Workflows.
+
 ## Pipeline Workflow
 
 The `retail_data_pipeline` job orchestrates the following tasks:
