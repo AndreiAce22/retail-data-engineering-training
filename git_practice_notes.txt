@@ -1,0 +1,1 @@
+Git and GitHub practice notes for my retail data engineering project. 
